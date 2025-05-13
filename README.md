@@ -26,10 +26,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with over 7 ye
 ### DevOps & Tools
 - **Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, AWS, GCP**
 
-## 📈 GitHub Stats
-
-![Laleet's GitHub stats](https://github-readme-stats.vercel.app/api?username=laleet-avaiya&show_icons=true&theme=radical)
-
 ## 🏆 Certifications
 - **Toptal Certified**: Completed over 6,000 hours on Toptal.
 - **Arc Certified**: Verified proficiency in key development skills.
