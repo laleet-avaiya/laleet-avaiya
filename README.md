@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with over 7 ye
 ## 🛠 Skills
 
 ### **Languages**
-- Python, Java, Node.js
+- Python, Java, Node.js, Nest js
 
 ### **Certifications**
 - Akka HTTP with Scala | Rock the JVM
